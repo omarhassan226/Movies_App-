@@ -1,0 +1,22 @@
+/* Search.css */
+.inputStyle {
+    background-color: #7950f2;
+    border: 1px solid transparent;
+    outline: 1px solid transparent;
+    border-radius: 7px;
+    color: #dee2e6;
+    font-size: 18px;
+    justify-self: center;
+    padding: 11px 150px 11px 30px;
+    transition: all 0.3s;
+    width: 100%;
+    height: 42.8px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.inputStyle:focus {
+    border-color: transparent;
+    outline: 1px solid white;
+    transform: scale(1.05);
+}
