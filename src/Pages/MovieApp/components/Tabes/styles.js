@@ -5,6 +5,7 @@ export const styles = {
         justifyContent: 'center',
         height: '559.5px',
         overflow: 'hidden',
+        backgroundColor:'#2B3035'
     },
     content: {
         width: '100%',

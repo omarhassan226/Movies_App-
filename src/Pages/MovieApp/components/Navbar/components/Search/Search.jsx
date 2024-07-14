@@ -5,7 +5,6 @@ const Search = () => {
     return (
         <div>
             <input
-            autoFocus
                 className="inputStyle"
                 type="text"
                 placeholder='Search movies...'
